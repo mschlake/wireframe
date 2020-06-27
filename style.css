@@ -1,0 +1,23 @@
+*{
+  box-sizing:border-box;
+}
+
+.wrapper{
+  margin: auto;
+}
+
+.lightgray{
+  background-color: lightgray;
+  color: darkslategray;
+  text-align: center;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.slategray{
+  background-color: darkslategray;
+  color: lightgray;
+  text-align: center;
+  padding: 10px;
+  font-size: 18px;
+}
